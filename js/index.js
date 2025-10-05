@@ -36,7 +36,7 @@ function getTotal(mathsMark, physicsMark, chemistryMark, biologyMark, csMark) {
 //Function to calculate avearge marks
 
 function getAverage(total) {
-    let avg = total/5;
+    let avg = total / 5;
     return avg;
 }
 
